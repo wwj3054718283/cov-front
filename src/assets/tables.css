@@ -1,0 +1,7 @@
+.areaBox{
+    position: absolute;
+    top:20vh;
+    left: 22vw;
+    min-width: 1080px;
+    min-height: 720px;
+}
